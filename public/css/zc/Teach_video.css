@@ -1,0 +1,40 @@
+section{
+    width: 98%;
+    margin: 0 auto;
+}
+.Teach_nav{
+    padding: 65px 0 30px 0;
+}
+.Teach_nav>a{
+    text-decoration: none;
+    color: #ff291e;
+}
+.Teach_border{
+    height: 265px;
+    width: 98%;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ff291e;
+}
+.floatL{
+    float: left;
+}
+.Clear{
+    clear: both;
+}
+.Teach_content{
+    width: 750px;
+    height: 255px;
+    /*margin-left: 30px;*/
+    padding: 10px 0 0 50px;
+}
+.Descript{
+    margin-top: 80px;
+}
+.Teach_content>a{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(255,64,1);
+}
+.Set-time{
+    margin-top: 20px;
+}

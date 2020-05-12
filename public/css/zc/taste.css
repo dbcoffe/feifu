@@ -1,0 +1,53 @@
+.Border{
+    /*padding-top: 70px;*/
+    width: 1200px;
+    margin: 0 auto ;
+}
+.Taste_nav{
+    padding-top: 80px;
+    width: 98%;
+    margin: 0 auto;
+}
+.taste_form{
+    margin-top: 50px;
+    background-color: #e9e9e9;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.taste_form>div{
+    padding-top: 10px;
+}
+.taste_form>div>input{
+    width: 1000px;
+    height: 25px;
+}
+.taste_desc{
+    margin-top: 50px;
+}
+.taste_form>div>button{
+    width: 190px;
+    height: 52px;
+    background-color: rgb(255,64,1);
+    color: white;
+    line-height: 52px;
+    text-decoration: none;
+    border: none;
+}
+.BannerB{
+    width: 100%;
+    background-image: url("../../images/zc/bg11.jpg");
+    background-size: cover;
+    line-height: 30px;
+}
+.Banner{
+    padding: 70px 30px;
+    width: 1200px;
+    margin: 0 auto;
+    color: white;
+}
+.Rules{
+    color: white;
+}
+.Rules>p{
+
+}
